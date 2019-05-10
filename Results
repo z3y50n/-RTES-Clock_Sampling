@@ -1,0 +1,19 @@
+first:
+Time lapsed: 7200.000225
+Number of points: 71757
+Offset: 24.362261
+Average: 0.100339516807
+Median: 0.100339889526
+Min difference: 0.100153207779
+Max difference: 0.102381944656
+Standard Deviation: 5.45969217854e-05
+
+second:
+Time lapsed: 7200.000157
+Number of points: 71879
+Offset: 12.108091
+Average: 0.100168454856
+Median: 0.100164175034
+Min difference: 0.0999879837036
+Max difference: 0.103663921356
+Standard Deviation: 4.56207681973e-05
